@@ -1,0 +1,17 @@
+{
+  "name": "guioncito-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "css-loader": "^7.1.2",
+    "express": "^4.19.2",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "style-loader": "^4.0.0"
+  }
+}
